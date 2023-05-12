@@ -19,9 +19,9 @@ console.log(total)
 
 let timmy = 10;
 let susan = 25;
-let timTax = 15/100;
-let susTax = 26/100;
+let timTax = 15%
+let usanTax = 26%
 
-let value = timmy * timTax + susan * susTax;
+let value = timmy * timTax + susan * usanTax;
 
 console.log(value)
